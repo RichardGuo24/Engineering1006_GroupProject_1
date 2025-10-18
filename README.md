@@ -1,7 +1,5 @@
 # Quick Directions – Clone Project to Your Computer
 
-If your teammate just needs the code locally, follow these simple steps (no SSH setup required):
-
 ---
 
 ### 1️⃣ Install prerequisites
@@ -18,7 +16,7 @@ If your teammate just needs the code locally, follow these simple steps (no SSH 
 ```bash
 cd ~/Projects  # or any folder you like
 git clone https://github.com/RichardGuo24/Engineering1006_GroupProject_1.git
-cd <repo>
+cd Engineering1006_GroupProject_1
 ```
 
 **Option B — GitHub Desktop**
